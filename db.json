@@ -1,15 +1,10 @@
 {
-    "alicetestapi":{
-        "payload":{
-         "empleados":
-            [
-                {
-                    "id": 0,
-                    "nombreEmpleado":"Genaro Ramos",
-                    "fechaNacimiento":"1994-05-21",
-                    "edad":"26 años"
-                 }
-            ]
-        }   
-    }    
+  "empleados": [
+    {
+      "id": 0,
+      "nombreEmpleado": "Genaro Ramos",
+      "fechaNacimiento": "1994-05-21",
+      "edad": "26 años"
+    }
+  ]
 }
